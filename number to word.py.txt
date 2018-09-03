@@ -1,0 +1,7 @@
+def once(num):
+    word = ''
+    if num == '123':
+        word = "One hundred and twenty three"
+    
+    word = word.strip()
+    return word
